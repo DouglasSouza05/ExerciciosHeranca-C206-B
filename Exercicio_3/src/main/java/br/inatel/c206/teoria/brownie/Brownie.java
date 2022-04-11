@@ -18,7 +18,6 @@ public class Brownie {
 
     public void calculaValorTotalCompra() {
         System.out.println("Calculando o Valor Total da Compra");
-        System.out.println("O valor do Brownie é: " + this.preco);
     }
 
     public void mostraInfo() {
